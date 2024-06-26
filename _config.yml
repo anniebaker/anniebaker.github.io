@@ -1,7 +1,7 @@
 title: Annie Baker
 logo: /assets/logo.png
 description: Need a solution? You've come to the right place. 
-show_downloads: true
+show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
